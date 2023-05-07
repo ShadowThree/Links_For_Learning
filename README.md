@@ -8,3 +8,4 @@
 
 # Linux
 - [tldr](https://tldr.sh/): linux命令查询工具(too long don't read)，以简洁举例的方式介绍Linux命令行。可以安装到系统，也有PDF版本以便阅读。
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
