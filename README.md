@@ -10,3 +10,4 @@
 - [tldr](https://tldr.sh/): linux命令查询工具(too long don't read)，以简洁举例的方式介绍Linux命令行。可以安装到系统，也有PDF版本以便阅读。
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [Linux命令解释](https://explainshell.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/learn/): 基于项目的逐步式编程教学，强推！
