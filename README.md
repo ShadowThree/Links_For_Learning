@@ -13,4 +13,4 @@
 - [freeCodeCamp](https://www.freecodecamp.org/learn/): 基于项目的逐步式编程教学，强推！
 
 # 咨询
-[国际数据公司(IDC)](https://www.idc.com/cn): 对各个地区各个市场的分析预测报告。
+- [国际数据公司(IDC)](https://www.idc.com/cn): 对各个地区各个市场的分析预测报告。
