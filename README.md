@@ -12,5 +12,20 @@
 - [Linux命令解释](https://explainshell.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/learn/): 基于项目的逐步式编程教学，强推！
 
+# 嵌入式
+## STM32
+[STMCU中文论坛(技术问答，资料下载，创客秀)](https://shequ.stmicroelectronics.cn/portal.php)
+[野火STM32F329开发板教程(个人觉得比正点原子的好太多了)](https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/First_acquaintance.html)
+
+## 传感器模块资料
+[DFRobot官网](https://wiki.dfrobot.com/AS7341_Visible_Light_Sensor_SKU_SEN0365)
+
+# python
+## py-side6
+- [pythonGUI](https://www.pythonguis.com/)
+- [py-side6官方文档](https://doc.qt.io/qtforpython-6/index.html)
+- [py-side6官方文档Examples的例程源代码](https://github.com/pyside/pyside-setup/tree/dev/examples)
+- [py-side6官方文档tutorial的例程源代码](https://github.com/pyside/pyside-setup/tree/dev/sources/pyside6/doc/tutorials)
+
 # 咨询
 - [国际数据公司(IDC)](https://www.idc.com/cn): 对各个地区各个市场的分析预测报告。
