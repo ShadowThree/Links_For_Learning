@@ -11,9 +11,12 @@
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [Linux命令解释](https://explainshell.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/learn/): 基于项目的逐步式编程教学，强推！
-- [labex](https://labex.io/learn)
+- [labex: 各种和程序员相关的`实验室`教程](https://labex.io/learn)
 
 # 嵌入式
+## FreeRTOS
+[MicroChip关于FreeRTOS的简单教程](https://onlinedocs.microchip.com/pr/GUID-F3CEAE3B-C3C1-4B92-B031-4E07B8ACCD81-en-US-3/index.html?GUID-51AC62C7-72B2-4486-80D0-B7275CA02874)
+
 ## STM32
 [STMCU中文论坛(技术问答，资料下载，创客秀)](https://shequ.stmicroelectronics.cn/portal.php)
 [野火STM32F329开发板教程(个人觉得比正点原子的好太多了)](https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/First_acquaintance.html)
