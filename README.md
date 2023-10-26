@@ -1,7 +1,11 @@
 # Links_For_Learning
 收藏的各种学习资料
 
-# 学习平台
+# 英语
+1. [TypingLearn](https://typinglearn.cn/learn/index)
+2. [Qwerty Learner](https://qwerty.kaiyi.cool/)
+
+# 计算机
 1. [数学，逻辑，计算机相关的各种课程，50RMB/month](https://brilliant.org/home/)
 
 # 1. 乐理
