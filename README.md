@@ -25,8 +25,15 @@
 1. [MicroChip关于FreeRTOS的简单教程](https://onlinedocs.microchip.com/pr/GUID-F3CEAE3B-C3C1-4B92-B031-4E07B8ACCD81-en-US-3/index.html?GUID-51AC62C7-72B2-4486-80D0-B7275CA02874)
 
 ## STM32
-1. [STMCU中文论坛(技术问答，资料下载，创客秀)](https://shequ.stmicroelectronics.cn/portal.php)
-2. [野火STM32F329开发板教程(个人觉得比正点原子的好太多了)](https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/First_acquaintance.html)
+1. [ST官网中文版](https://www.st.com/content/st_com/zh.html)
+2. [STMCU中文官网](https://www.stmcu.com.cn/)
+3. [STMCU中文论坛(技术问答，资料下载，创客秀)](https://shequ.stmicroelectronics.cn/portal.php)
+4. [野火STM32F329开发板教程(个人觉得比正点原子的好太多了)](https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/First_acquaintance.html)
+5. [ST官网关于MCU AI的介绍](https://wiki.stmicroelectronics.cn/stm32mcu/wiki/Category:Artificial_Intelligence)
+6. [信息安全相关](https://www.stmcu.com.cn/ecosystem/app/information-security-OVERVIEW)
+7. [电机控制相关](https://www.stmcu.com.cn/ecosystem/app/Motor-control)
+8. [STM32.AI](https://wiki.stmicroelectronics.cn/stm32mcu/wiki/Category:Artificial_Intelligence)
+9. [AI相关](https://stm32ai.st.com/zh/)
 
 ## 传感器模块资料
 1. [DFRobot官网](https://wiki.dfrobot.com/AS7341_Visible_Light_Sensor_SKU_SEN0365)
@@ -40,5 +47,6 @@
 
 # 咨询
 1. [国际数据公司(IDC)](https://www.idc.com/cn): 对各个地区各个市场的分析预测报告。
+2. [Oliver Wyman咨询公司](https://www.oliverwyman.com/index.html)
 
 # 前端
