@@ -7,6 +7,7 @@
 
 # 计算机
 1. [数学，逻辑，计算机相关的各种课程，50RMB/month](https://brilliant.org/home/)
+2. [Machine Learning](https://www.freecodecamp.org/news/machine-learning-handbook/)
 
 # 1. 乐理
 1. [musicca](https://www.musicca.com/zh): 乐理知识学习网站，包括习题，虚拟乐器等各种工具。
