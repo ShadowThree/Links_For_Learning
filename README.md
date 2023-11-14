@@ -1,4 +1,4 @@
-# Links_For_Learning
+# Links_For_Learning(NOT only learning)
 收藏的各种学习资料
 
 # 英语
@@ -11,8 +11,9 @@
 
 # 1. 乐理
 1. [musicca](https://www.musicca.com/zh): 乐理知识学习网站，包括习题，虚拟乐器等各种工具。
+2. [互联网档案馆](https://archive.org/)：可下载音乐
 
-2. [在线节拍器](https://tinywisp.github.io/metronome/)
+3. [在线节拍器](https://tinywisp.github.io/metronome/)
 
 # Linux
 1. [tldr](https://tldr.sh/): linux命令查询工具(too long don't read)，以简洁举例的方式介绍Linux命令行。可以安装到系统，也有PDF版本以便阅读。
@@ -29,7 +30,7 @@
 1. [ST官网中文版](https://www.st.com/content/st_com/zh.html)
 2. [STMCU中文官网](https://www.stmcu.com.cn/)
 3. [STMCU中文论坛(技术问答，资料下载，创客秀)](https://shequ.stmicroelectronics.cn/portal.php)
-4. [野火STM32F329开发板教程(个人觉得比正点原子的好太多了)](https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/First_acquaintance.html)
+4. [野火STM32F329开发板教程(个人觉得https://www.opensubtitles.org/zh比正点原子的好太多了)](https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/First_acquaintance.html)
 5. [ST官网关于MCU AI的介绍](https://wiki.stmicroelectronics.cn/stm32mcu/wiki/Category:Artificial_Intelligence)
 6. [信息安全相关](https://www.stmcu.com.cn/ecosystem/app/information-security-OVERVIEW)
 7. [电机控制相关](https://www.stmcu.com.cn/ecosystem/app/Motor-control)
@@ -51,3 +52,10 @@
 2. [Oliver Wyman咨询公司](https://www.oliverwyman.com/index.html)
 
 # 前端
+
+# 电影
+1. [字幕下载](https://www.opensubtitles.org/zh) 【说明：阿里云盘的字幕文件名必须和视频文件名一致，才能导入！】
+
+# 上网
+1. [互联网档案馆](https://archive.org/)：可下载音乐，查看新闻，查看一个网站的历史网页等，互联网是有记忆的。目标是记录了互联网的一切。
+
