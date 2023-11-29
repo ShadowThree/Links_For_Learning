@@ -47,6 +47,9 @@
 3. [py-side6官方文档Examples的例程源代码](https://github.com/pyside/pyside-setup/tree/dev/examples)
 4. [py-side6官方文档tutorial的例程源代码](https://github.com/pyside/pyside-setup/tree/dev/sources/pyside6/doc/tutorials)
 
+# 协议
+1. [CAN 协议](https://blog.csdn.net/USB_ABC/article/details/117628034)
+
 # 咨询
 1. [国际数据公司(IDC)](https://www.idc.com/cn): 对各个地区各个市场的分析预测报告。
 2. [Oliver Wyman咨询公司](https://www.oliverwyman.com/index.html)
