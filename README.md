@@ -4,6 +4,7 @@
 # 英语
 1. [TypingLearn](https://typinglearn.cn/learn/index)
 2. [Qwerty Learner](https://qwerty.kaiyi.cool/)
+3. [TypingWord](https://typing-word.ttentau.top/#/practice)
 
 # 计算机
 1. [数学，逻辑，计算机相关的各种课程，50RMB/month](https://brilliant.org/home/)
