@@ -27,6 +27,9 @@
 ## FreeRTOS
 1. [MicroChip关于FreeRTOS的简单教程](https://onlinedocs.microchip.com/pr/GUID-F3CEAE3B-C3C1-4B92-B031-4E07B8ACCD81-en-US-3/index.html?GUID-51AC62C7-72B2-4486-80D0-B7275CA02874)
 
+## zephyr
+1. [zephyr tutorial](https://maksimdrachov.github.io/zephyr-rtos-tutorial/)
+
 ## STM32
 1. [ST官网中文版](https://www.st.com/content/st_com/zh.html)
 2. [STMCU中文官网](https://www.stmcu.com.cn/)
