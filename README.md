@@ -22,6 +22,8 @@
 3. [Linux命令解释](https://explainshell.com/)
 4. [freeCodeCamp](https://www.freecodecamp.org/learn/): 基于项目的逐步式编程教学，强推！
 5. [labex: 各种和程序员相关的`实验室`教程](https://labex.io/learn)
+## Linux 驱动
+1. [Linux驱动开发入门与实战](https://m.ituring.com.cn/book/tupubarticle/2978?bookID=1524&type=tubook&subject=%E7%AC%AC%201%20%E7%AB%A0%E3%80%80Linux%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E6%A6%82%E8%BF%B0)
 
 # 嵌入式
 ## FreeRTOS
