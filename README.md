@@ -43,6 +43,9 @@
 8. [STM32.AI](https://wiki.stmicroelectronics.cn/stm32mcu/wiki/Category:Artificial_Intelligence)
 9. [AI相关](https://stm32ai.st.com/zh/)
 
+## LVGL
+1. [LVGL博客](https://frozencandles.fun/archives/307)
+
 ## 传感器模块资料
 1. [DFRobot官网](https://wiki.dfrobot.com/AS7341_Visible_Light_Sensor_SKU_SEN0365)
 
