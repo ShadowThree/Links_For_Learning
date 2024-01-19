@@ -1,6 +1,14 @@
 # Links_For_Learning(NOT only learning)
 收藏的各种学习资料
 
+# GITHUB
+1. [collections/learn-to-code](https://github.com/collections/learn-to-code)
+1. [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+2. [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+
+# ChatGPT
+1. [prompts](https://github.com/linexjlin/GPTs)
+
 # 英语
 1. [TypingLearn](https://typinglearn.cn/learn/index)
 2. [Qwerty Learner](https://qwerty.kaiyi.cool/)
