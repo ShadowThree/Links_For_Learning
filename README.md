@@ -13,6 +13,8 @@
 1. [TypingLearn](https://typinglearn.cn/learn/index)
 2. [Qwerty Learner](https://qwerty.kaiyi.cool/)
 3. [TypingWord](https://typing-word.ttentau.top/#/practice)
+4. [wait but why](https://waitbutwhy.com/)
+5. [free kids books](https://freekidsbooks.org/)
 
 # 计算机
 1. [数学，逻辑，计算机相关的各种课程，50RMB/month](https://brilliant.org/home/)
@@ -21,8 +23,8 @@
 # 1. 乐理
 1. [musicca](https://www.musicca.com/zh): 乐理知识学习网站，包括习题，虚拟乐器等各种工具。
 2. [互联网档案馆](https://archive.org/)：可下载音乐
-
 3. [在线节拍器](https://tinywisp.github.io/metronome/)
+4. [官大为-好和弦系列教程](https://www.bilibili.com/video/BV1Xs411374a/?p=4&spm_id_from=pageDriver&vd_source=31890dd0496f2df17b6c5c22733fb38e)
 
 # Linux
 1. [tldr](https://tldr.sh/): linux命令查询工具(too long don't read)，以简洁举例的方式介绍Linux命令行。可以安装到系统，也有PDF版本以便阅读。
